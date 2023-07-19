@@ -1,16 +1,10 @@
-# meals
+## Meals
+A collection of some exquisite recipes from around the world.
+## Features
+* Recipes are divided into various categories viz. Asian,Italian,Exotic etc.
+* Add filters to browse through only selected recipes.
+* Add recipes to favourites for future reference.
+* Easy to use interface.
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
