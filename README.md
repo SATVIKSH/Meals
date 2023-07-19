@@ -8,6 +8,6 @@ A collection of some exquisite recipes from around the world.
 
 ## Screenshots
 
-<img src="https://github.com/SATVIKSH/Meals/blob/master/image1.jpg" width=200 height="400">      <img src="https://github.com/SATVIKSH/Meals/blob/master/image2.jpg" width=200 height="400">      <img src="https://github.com/SATVIKSH/Meals/blob/master/image3.jpg" width=200 height="400">          
+<img src="https://github.com/SATVIKSH/Meals/blob/master/image1.jpg" width=200 height="400">      <img src="https://github.com/SATVIKSH/Meals/blob/master/image2.jpg" width=200 height="400">      <img src="https://github.com/SATVIKSH/Meals/blob/master/image3.jpg" width=200 height="400">      <img src="https://github.com/SATVIKSH/Meals/blob/master/image5.jpg" width=200 height="400">           
 
 
